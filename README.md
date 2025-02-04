@@ -23,6 +23,12 @@ This is a secure web-based voting application that allows users to vote for cand
 - **Authentication & Security:** JWT, bcrypt for password hashing  
 
 ---
+## 🔹 Flowchart & System Diagram
+Below is a visual representation of the application's workflow and data flow:
+
+![Screenshot 2025-02-04 114934](https://github.com/user-attachments/assets/f1adb36c-96c2-4316-a0ec-bc07f8b792f5)
+
+---
 ## 🔹 Future Enhancements
 - ✅ Implement OTP-based Aadhaar verification.
 - ✅ Add WebSockets for real-time vote updates.
@@ -42,4 +48,4 @@ Feel free to fork this repository and contribute! Open a pull request with your 
 For any queries, reach out at: **pratikshaparihar679@example.com**
 
 
-![Screenshot 2025-02-04 114934](https://github.com/user-attachments/assets/f1adb36c-96c2-4316-a0ec-bc07f8b792f5)
+
